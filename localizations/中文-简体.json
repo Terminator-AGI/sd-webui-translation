@@ -7981,5 +7981,14 @@
   "(Similar to the above, tags that haven't been used in this many days will not be sorted higher. Set to 0 to disable.)": "（类似于上述，未在这么多天内使用的标签将不会排序更高。设置为 0 以禁用。）",
   "(Limits the maximum number of recommended tags to not drown out normal results. Set to 0 to disable.)": "（限制推荐标签的最大数量，以免淹没正常结果。设置为 0 以禁用。）",
   "(Tag frequency will be increased for the main tag even if an alias is used for completion. This option can be used to override the default behavior of alias results being ignored for frequency sorting.)": "（即使使用别名完成，主标签的频率也会增加。此选项可用于覆盖默认的忽略别名结果的频率排序行为。）",
-  "(Suggests style names from the webui dropdown with '$'. Currently requires a secondary extension like": "（从 webui 下拉列表中建议样式名称，使用 '$'。目前需要类似的二次扩展"
+  "(Suggests style names from the webui dropdown with '$'. Currently requires a secondary extension like": "（从 webui 下拉列表中建议样式名称，使用 '$'。目前需要类似的二次扩展",
+  "Save frames to stable-diffusion-webui/outputs/{ txt|img }2img-images/AnimateDiff/{gif filename}/{date} instead of stable-diffusion-webui/outputs/{ txt|img }2img-images/{date}/.": "将帧保存到 stable-diffusion-webui/outputs/{ txt|img }2img-images/AnimateDiff/{gif filename}/{date}，而不是 stable-diffusion-webui/outputs/{ txt|img }2img-images/{date}/。",
+  "Blocks (12ALL,17ALL,20ALL,26ALL also can be used)": "块 (12ALL,17ALL,20ALL,26ALL 也可使用)",
+  "Use the '<lora:' prefix instead of '<lyco:' for models in the LyCORIS folder": "对于 LyCORIS 文件夹中的模型，使用 '<lora:' 前缀而不是 '<lyco:'",
+  "then press 'Apply' to write them to /Volumes/AIGC/stable-diffusion-webui/ui-config.json.": "然后按“应用”将它们写入 /Volumes/AIGC/stable-diffusion-webui/ui-config.json。",
+  "(eg. path\\to\\models|C:\\path\\to\\models|another/path/to/models)": "(例如 path\\to\\models|C:\\path\\to\\models|another/path/to/models)",
+  "docs": "文档",
+  "(17 for best quality, up to 28 for smaller size)": "(17 为最佳质量，28 为最小尺寸)",
+  "(encoding speed, use the slowest you can tolerate)": "(编码速度，使用您能忍受的最慢速度)",
+  "(optimize for specific content types)": "(针对特定内容类型进行优化)"
 }
