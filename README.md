@@ -4,6 +4,5 @@
 
 ## 安装
 
-- **（推荐）** 
 - 通过安装扩展：
   - `https://github.com/Terminator-AGI/sd-webui-translation.git`
