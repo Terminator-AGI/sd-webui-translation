@@ -8065,7 +8065,6 @@
   "Guidance Min Cfg": "提示词引导系数最小值",
   "Half Cosine Down": "半余弦下降",
   "Half Cosine Up": "半余弦上升",
-  "hard_clamp": "硬夹",
   "Insert [Author Name] &  [Model Name] & [Model NameVersion Name] as sub folder options": "插入 [\\作者名称] & [\\模型名称] & [\\模型名称\\版本名称] 作为子文件夹选项",
   "Insert [Model Name] & [Model NameVersion Name] as sub folder options": "插入 [\\模型名称] & [\\模型名称\\版本名称] 作为子文件夹选项",
   "Instead it will pick up all files in the upscale_me folder and upscale them with below settings.": "相对应的会用 \\upscale_me\\ 文件夹中的文件按照下列设置对它们进行放大。",
@@ -8108,7 +8107,6 @@
   "Tile Overlap": "分块重叠",
   "Tile Batch Size": "分块批处理大小",
   "Share attention in batch": "批处理中共享注意力",
-  "Never OOM Integrated": "永不 OOM 集成",
   "start": "开始",
   "end": "结束",
   "SVD Checkpoint Filename": "SVD 检查点文件名",
@@ -8131,5 +8129,11 @@
   "img2img-images (img2img output setting of web UI)": "img2img-images（web UI 的 img2img 输出设置）",
   "Segment Anything Models Directory; If empty, defaults to [Inpaint Anything extension folder]/models": "分割任何模型目录；如果为空，默认到 [Inpaint Anything 扩展文件夹]/models",
   "Input directory path to the control images.": "控制图像的输入目录路径。",
-  "Infotext is what this software calls the text that contains generation parameters and can be used to generate the same picture again.It is displayed in UI below the image. To use infotext, paste it into the prompt and click the ↙️ paste button.": "Infotext 是此软件用来描述包含生成参数的文本，通过这些参数可以再次生成相同的图片。它显示在图像下方的用户界面中。要使用 Infotext，请将其粘贴到提示框中并点击 ↙️ 粘贴按钮。"
+  "hard_clamp": "硬钳位",
+  "soft_clamp": "软钳位",
+  "add_scaled": "添加缩放",
+  "speckle": "斑点",
+  "subtract_channels": "减去通道",
+  "subtract_median": "减去中值",
+  "sharpen": "锐化"
 }
