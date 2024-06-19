@@ -8125,12 +8125,11 @@
   "extension.": "扩展。",
   "Segment Anything image": "分割任何图像",
   "Selected mask image": "选择的蒙版图像",
-  "Approx NN": "近似 NN",
-  "Approx cheap": "近似廉价",
   "Disable ControlNet wrapper for AnimateDiff (this requires a large VRAM)": "禁用 AnimateDiff 的 ControlNet 包装器（这需要大量 VRAM）",
   "ControlNet batch size for AnimateDiff (default: 2 * context_batch_size)": "AnimateDiff 的 ControlNet 批处理大小（默认：2 * context_batch_size）",
   "Input image thumbnail on unit header": "单元标题上的输入图像缩略图",
   "img2img-images (img2img output setting of web UI)": "img2img-images（web UI 的 img2img 输出设置）",
   "Segment Anything Models Directory; If empty, defaults to [Inpaint Anything extension folder]/models": "分割任何模型目录；如果为空，默认到 [Inpaint Anything 扩展文件夹]/models",
-  "Input directory path to the control images.": "控制图像的输入目录路径。"
+  "Input directory path to the control images.": "控制图像的输入目录路径。",
+  "Infotext is what this software calls the text that contains generation parameters and can be used to generate the same picture again.It is displayed in UI below the image. To use infotext, paste it into the prompt and click the ↙️ paste button.": "Infotext 是此软件用来描述包含生成参数的文本，通过这些参数可以再次生成相同的图片。它显示在图像下方的用户界面中。要使用 Infotext，请将其粘贴到提示框中并点击 ↙️ 粘贴按钮。"
 }
