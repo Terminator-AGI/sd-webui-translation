@@ -8143,5 +8143,6 @@
   "quantile": "分位数",
   "spatial-norm": "空间规范",
   "Tonemap Percentile": "色调映射百分位数",
-  "Contrast Multiplier": "对比度倍增器"
+  "Contrast Multiplier": "对比度倍增器",
+  "(Approx NN: fast preview; TAESD = high-quality preview; Approx cheap = fastest but low-quality preview)": "(Approx NN：快速预览；TAESD = 高质量预览；Approx cheap = 最快但低质量的预览)"
 }
