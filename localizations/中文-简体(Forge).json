@@ -8135,5 +8135,13 @@
   "speckle": "斑点",
   "subtract_channels": "减去通道",
   "subtract_median": "减去中值",
-  "sharpen": "锐化"
+  "sharpen": "锐化",
+  "nearest-exact": "邻近精确",
+  "joint-anisotropic": "联合各向异性",
+  "reinhard": "Reinhard",
+  "reinhard_perchannel": "Reinhard每通道",
+  "quantile": "分位数",
+  "spatial-norm": "空间规范",
+  "Tonemap Percentile": "色调映射百分位数",
+  "Contrast Multiplier": "对比度倍增器"
 }
