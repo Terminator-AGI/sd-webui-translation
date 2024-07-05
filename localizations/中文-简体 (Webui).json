@@ -8006,5 +8006,7 @@
   "Max tabs": "最大标签数",
   "Reset zoom to static.": "重置缩放为静态。",
   "Preset: refresh": "预设：刷新",
-  "depth_anything_v2": "depth_anything_v2(深度图v2 - 任何)"
+  "depth_anything_v2": "depth_anything_v2(深度图v2 - 任何)",
+  "Segment Anything Models Directory; If empty, defaults to [Inpaint Anything extension folder]/models": "Segment Anything 模型目录；如果为空，默认为 [Inpaint Anything 插件文件夹]/models",
+  "(The lyco prefix is included for backwards compatibility and not used anymore by default. Disable this if you are on an old webui version without built-in lyco support.)": "(为了向后兼容，包含 lyco 前缀，默认情况下不再使用。如果您使用的是没有内置 lyco 支持的旧版 webui，请禁用此选项。)"
 }
