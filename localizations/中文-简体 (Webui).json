@@ -7998,5 +7998,13 @@
   "show": "显示",
   "Filtering type": "过滤类型",
   "(load T5 text encoder; increases VRAM use by a lot, potentially improving quality of generation; requires model reload to apply)": "(加载 T5 文本编码器；显著增加显存使用，可能提高生成质量；需要重新加载模型才能应用)",
-  "Enable T5": "启用 T5"
+  "Enable T5": "启用 T5",
+  "diff image color": "差异图像颜色",
+  "SLerp": "球面线性插值",
+  "MiDaS/Zoe weight": "MiDaS/Zoe 权重",
+  "Selected mask image": "选定的蒙版图像",
+  "Max tabs": "最大标签数",
+  "Reset zoom to static.": "重置缩放为静态。",
+  "Preset: refresh": "预设：刷新",
+  "depth_anything_v2": "depth_anything_v2(深度图v2 - 任何)"
 }
