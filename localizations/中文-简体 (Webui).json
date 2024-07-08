@@ -8029,5 +8029,5 @@
   "(\"Add Textual Inversion hashes to infotext\" needs to be enabled)": "(需要启用 \"将文本反转哈希添加到信息文本\")",
   "(By default, NGMS above skips every other step; this makes it skip all steps)": "(默认情况下，上面的 NGMS 跳过每隔一步；这使它跳过所有步骤)",
   "(disables CFG on a proportion of steps at the beginning of generation; 0=skip none; 1=skip all; can both improve sample diversity/quality and speed up sampling)": "(在生成开始时禁用 CFG 的一定比例步骤；0=不跳过；1=全部跳过；可以同时提高样本多样性/质量并加快采样)",
-  "(Enable Clip skip for the secondary clip model in sdxl. Has no effect on SD 1.5 or SD 2.0/2.1.)": "(Enable Clip skip for the secondary clip model in sdxl. Has no effect on SD 1.5 or SD 2.0/2.1.)",
+  "(Enable Clip skip for the secondary clip model in sdxl. Has no effect on SD 1.5 or SD 2.0/2.1.)": "(为SDXL中的次级clip模型启用Clip skip。对SD 1.5或SD 2.0/2.1无效。)"
 }
