@@ -8032,6 +8032,8 @@
   "(Enable Clip skip for the secondary clip model in sdxl. Has no effect on SD 1.5 or SD 2.0/2.1.)": "(为SDXL中的次级clip模型启用Clip skip。对SD 1.5或SD 2.0/2.1无效。)",
   "Beta scheduler - alpha": "Beta 调度器 - alpha",
   "Beta scheduler - beta": "Beta 调度器 - beta",
+  "(Default = 0.6; the alpha parameter of the beta distribution used in Beta sampling)": "(默认值 = 0.6；用于 Beta 采样的 beta 分布的 alpha 参数)",
+  "(Default = 0.6; the beta parameter of the beta distribution used in Beta sampling)": "(默认值 = 0.6；用于 Beta 采样的 beta 分布的 beta 参数)",
   "Pause/Resume": "暂停/恢复",
   "Write log.csv when saving images using 'Save' button": "使用“保存”按钮时将写入 log.csv"
 }
