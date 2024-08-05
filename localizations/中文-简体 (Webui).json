@@ -8037,7 +8037,6 @@
   "Pause/Resume": "暂停/恢复",
   "Write log.csv when saving images using 'Save' button": "使用“保存”按钮时将写入 log.csv",
   "Input_Image": "输入图片",
-  "Dynamic Thresholding (CFG Scale Fix)": "动态阈值 (CFG Scale 修复)",
   "Causalize layers": "因果化层",
   "Guidance Scale": "引导系数",
   "noise multiplier; higher = more unpredictable results": "噪声倍增器; 越高 = 结果越不可预测",
