@@ -5183,7 +5183,6 @@
   "Sigma schedule": "Sigma 调度计划",
   "Silhouette": "Silhouette (剪影)",
   "Similarity": "相似度",
-  "Simple": "单一值",
   "Simple (Auto-value)": "单一值（自动取值）",
   "Simple :": "简要地说: ",
   "Simplified Chinese localization": "简体中文本地化",
@@ -8238,5 +8237,4 @@
   "Slow-Mo X": "慢动作 X",
   "Write original prompt to infotext": "将原始提示词写入信息文本",
   "(the original prompt before __wildcards__ are applied)": "(应用 __wildcards__ 之前的原始提示词)"
-
 }
