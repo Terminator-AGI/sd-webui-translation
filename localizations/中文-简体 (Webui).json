@@ -7831,7 +7831,6 @@
   "Change animation mode to 2D or 3D to enable Hybrid Mode": "更改动画模式为2D或3D以启用混合模式",
   "DIS Medium": "DIS 中等",
   "DIS Fine": "DIS 精细",
-  "Farneback": "Farneback",
   "Show Advanced": "显示高级",
   "Hide Advanced": "隐藏高级",
   "Save Weights": "保存权重",
@@ -8223,5 +8222,21 @@
   "Sin": "正弦",
   "1 - Cos": "1 - 余弦",
   "1 - Sin": "1 - 正弦",
-  "Hires. Fix Sharpness": "高分辨率。修复清晰度"
+  "Hires. Fix Sharpness": "高分辨率。修复清晰度",
+  "Comparison": "图片对比",
+  "Swap": "交换",
+  "Horizontal Slider": "水平滑块",
+  "Compare Upload": "上传对比",
+  "Compare img2img": "图生图对比",
+  "Compare Inpaint": "修补对比",
+  "Compare Extras": "附加对比",
+  "Image A": "图片 A",
+  "Image B": "图片 B",
+  "Revision": "修订",
+  "move": "移动",
+  "Farneback": "光流法(Farneback)",
+  "Slow-Mo X": "慢动作 X",
+  "Write original prompt to infotext": "将原始提示词写入信息文本",
+  "(the original prompt before __wildcards__ are applied)": "(应用 __wildcards__ 之前的原始提示词)"
+
 }
