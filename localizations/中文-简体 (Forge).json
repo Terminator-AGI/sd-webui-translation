@@ -5425,7 +5425,7 @@
   "TEnc Weight 3": "Text Encoder 权重 3",
   "TEnc Weight 4": "Text Encoder 权重 4",
   "TEnc Weight 5": "Text Encoder 权重 5",
-  "TXT2IMG": "文生图",
+  "Txt2img": "文生图",
   "Tab": "Tab (制表符)",
   "Tag": "标签",
   "Tag Autocomplete": "标签自动补全",
@@ -6753,7 +6753,7 @@
   "ignore": "无视",
   "image": "图像",
   "image into latent space representation and back. Latent space representation is what stable diffusion is working on during sampling\n(i.e. when the progress bar is between empty and full). For txt2img, VAE is used to create a resulting image after the sampling is finished.\nFor img2img, VAE is used to process user's input image before the sampling, and to create an image after sampling.": " 图像和潜空间表征互相转换。潜空间表征是 Stable Diffusion 在采样过程中的实际操作对象。(即进度条处于 \"空\" 和 \"满\" 之间的状态)。\n对于文生图，VAE 仅用于在采样完成后创建 RGB 图像。\n对于图生图，VAE 用于在采样前把用户输入的图像处理为潜空间表征，并在采样后创建 RGB 图像。",
-  "img2img": "图生图",
+  "Img2img": "图生图",
   "img2img CFG": "图生图的提示词引导系数",
   "img2img DDIM discretize": "图生图 DDIM 离散化",
   "img2img Sampling steps": "图生图的采样迭代步数",
@@ -8205,5 +8205,14 @@
   "Zero123 Checkpoint Filename": "Zero123模型名",
   "Elevation": "仰角",
   "Azimuth": "方位角",
-  "Sampling Scheduler": "采样调度器"
+  "Sampling Scheduler": "采样调度器",
+  "UI": "用户界面",
+  "Swap Method": "交换方法",
+  "VAE / Text Encoder": "VAE / 文本编码器",
+  "Diffusion with Low Bits": "低位扩散",
+  "Queue": "队列",
+  "Async": "异步",
+  "Swap Location": "交换位置",
+  "Shared": "共享",
+  "GPU Weights (MB)": "GPU 权重（MB）"
 }
