@@ -8209,10 +8209,11 @@
   "UI": "用户界面",
   "Swap Method": "交换方法",
   "VAE / Text Encoder": "VAE / 文本编码器",
-  "Diffusion with Low Bits": "低位扩散",
+  "Diffusion in Low Bits": "低位扩散",
   "Queue": "队列",
   "Async": "异步",
   "Swap Location": "交换位置",
   "Shared": "共享",
-  "GPU Weights (MB)": "GPU 权重（MB）"
+  "GPU Weights (MB)": "GPU 权重（MB）",
+  "Distilled CFG Scale": "蒸馏CFG系数"
 }
