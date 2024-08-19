@@ -8241,5 +8241,6 @@
   "Save UNet": "保存 UNet",
   "Save Checkpoint": "保存大模型",
   "Ready to save ... (Currently only support saving Flux models)": "准备保存...（目前仅支持保存Flux模型）",
-  "Currently Running:": "当前运行："
+  "Currently Running:": "当前运行：",
+  "Installed, Ready to Launch": "已安装，准备启动"
 }
