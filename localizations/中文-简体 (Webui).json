@@ -8287,5 +8287,9 @@
   "Use Custom Dimensions": "使用自定义尺寸",
   "Custom Width": "自定义宽度",
   "Custom Height": "自定义高度",
-  "Output Dimension Source": "输出尺寸来源"
+  "Output Dimension Source": "输出尺寸来源",
+  "green": "绿色",
+  "blue": "蓝色",
+  "red": "红色",
+  "e.g., 16:9, 4:3, 1:1, portrait, landscape, or leave blank for original": "例如：16:9，4:3，1:1，纵向，横向，或留空为原始比例"
 }
