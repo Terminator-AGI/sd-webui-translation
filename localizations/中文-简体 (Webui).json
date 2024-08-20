@@ -8291,5 +8291,14 @@
   "green": "绿色",
   "blue": "蓝色",
   "red": "红色",
-  "e.g., 16:9, 4:3, 1:1, portrait, landscape, or leave blank for original": "例如：16:9，4:3，1:1，纵向，横向，或留空为原始比例"
+  "e.g., 16:9, 4:3, 1:1, portrait, landscape, or leave blank for original": "例如：16:9，4:3，1:1，纵向，横向，或留空为原始比例",
+  "Aspect Ratio and Resolution Buttons": "纵横比和分辨率",
+  "Current W/H Avg.": "当前宽高平均值",
+  "Precision (px)": "精度（像素）",
+  "AR and Static Res buttons can be customized in the 'aspect_ratios.txt' and 'resolutions.txt' files": "纵横比和静态分辨率按钮可以在 'aspect_ratios.txt' 和 'resolutions.txt' 文件中自定义",
+  "Aspect Ratio buttons (Top Row)": "纵横比按钮（顶行）",
+  "(1) Averages the current width/height in the UI; (2) Offsets to the exact aspect ratio; (3) Rounds to precision.": "（1）计算UI中当前宽高的平均值；（2）调整到精确的纵横比；（3）按精度进行舍入。",
+  "Static Resolution buttons (Bottom Row)": "静态分辨率按钮（底行）",
+  "Recommended to use 1:1 values for these, to serve as a start point before clicking AR buttons.": "建议使用1:1的值作为起点，然后再点击纵横比按钮。",
+  "64px Precision is recommended, the same rounding applied for image \"bucketing\" when model training.": "建议使用64px精度，与模型训练时的图像“分桶”舍入方式相同。"
 }
