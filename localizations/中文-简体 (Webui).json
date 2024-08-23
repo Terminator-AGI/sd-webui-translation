@@ -8300,5 +8300,6 @@
   "(1) Averages the current width/height in the UI; (2) Offsets to the exact aspect ratio; (3) Rounds to precision.": "（1）计算UI中当前宽高的平均值；（2）调整到精确的纵横比；（3）按精度进行舍入。",
   "Static Resolution buttons (Bottom Row)": "静态分辨率按钮（底行）",
   "Recommended to use 1:1 values for these, to serve as a start point before clicking AR buttons.": "建议使用1:1的值作为起点，然后再点击纵横比按钮。",
-  "64px Precision is recommended, the same rounding applied for image \"bucketing\" when model training.": "建议使用64px精度，与模型训练时的图像“分桶”舍入方式相同。"
+  "64px Precision is recommended, the same rounding applied for image \"bucketing\" when model training.": "建议使用64px精度，与模型训练时的图像“分桶”舍入方式相同。",
+  "Infinite image browsing": "无边图像浏览"
 }
