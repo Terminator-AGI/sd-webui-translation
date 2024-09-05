@@ -7902,7 +7902,7 @@
   "difference threshold": "差异阈值",
   "Unused": "未使用",
   "Checkbox Group": "复选框组",
-  "Extra paths to scan adetailer models seperated by vertical bars(|)": "用于扫描 adetailer 模型的额外路径，用竖线 (|) 分隔",
+  "Extra paths to scan adetailer models separated by vertical bars(|)": "用于扫描 ADetailer 模型的额外路径，用竖线 (|) 分隔",
   "Use same seed for each tab in adetailer": "在 adetailer 的每个选项卡中使用相同的种子",
   "Default Save Formats": "默认保存格式",
   "Path to save extracted frames": "保存提取帧的路径",
@@ -8301,5 +8301,7 @@
   "Static Resolution buttons (Bottom Row)": "静态分辨率按钮（底行）",
   "Recommended to use 1:1 values for these, to serve as a start point before clicking AR buttons.": "建议使用1:1的值作为起点，然后再点击纵横比按钮。",
   "64px Precision is recommended, the same rounding applied for image \"bucketing\" when model training.": "建议使用64px精度，与模型训练时的图像“分桶”舍入方式相同。",
-  "Infinite image browsing": "无边图像浏览"
+  "Infinite image browsing": "无边图像浏览",
+  "(Turn this on if you have issues with new embeddings not registering correctly in TAC. Warning: Seems to cause reloading issues in gradio for some users.)": "(如果您遇到新嵌入未正确注册的问题，请打开此选项。警告：对某些用户可能会导致 gradio 中的重新加载问题。)",
+  "Force refresh embeddings when pressing the extra networks refresh button": "强制刷新嵌入时按下额外网络刷新按钮"
 }
