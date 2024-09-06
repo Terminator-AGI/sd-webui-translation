@@ -8327,5 +8327,16 @@
   "Automatically Merge": "自动合并",
   "Bit Depth": "位深度",
   "Lower: Darker | Higher: Brighter": "降低：更暗 | 提高：更亮",
-  "ReSharpen": "重新锐化"
+  "ReSharpen": "重新锐化",
+  "Toggle to lock the \"average\" width/height values in the UI\nIt is recommended to \"Lock\" when switching between ARs in \"Offset\" mode.\n\n🔒 = Locked\n🔓 = Unlocked": "切换以锁定UI中的\"平均\"宽度/高度值\n建议在\"偏移\"模式下切换AR时\"锁定\"。\n\n🔒 = 已锁定\n🔓 = 未锁定",
+  "For \"Offset mode\" (default):\n▯ = Portrait resolutions\n▭ = Landscape resolutions\n\nFor \"One Dimension\" mode:\n▭ = Modify Width\n▯ = Modify Height": "对于\"偏移模式\"（默认）：\n▯ = 纵向分辨率\n▭ = 横向分辨率\n\n对于\"单维度模式\"：\n▭ = 修改宽度\n▯ = 修改高度",
+  "Square": "正方形",
+  "Television Photography": "电视摄影",
+  "Photography": "摄影",
+  "Widescreen Displays": "宽屏显示器",
+  "Widescreen Television": "宽屏电视",
+  "Ultrawide Cinematography": "超宽电影摄影",
+  "Show the Information panel including additional settings.": "显示信息面板，包括其他设置。",
+  "Hide the Information panel.": "隐藏信息面板。",
+  "Toggle the Mode for updating resolution.\nResolution is always rounded to precision (default 64px).\n\n⮃ = \"Offset\" updates both Width/Height from the average current resolution\n⮅ = \"One Dimension\" changes only Width or Height": "切换分辨率更新模式。\n分辨率总是四舍五入到精度（默认64px）。\n\n⮃ = \"偏移\"模式，从当前分辨率平均值更新宽度/高度\n⮅ = \"单维度\"模式，仅更改宽度或高度"
 }
