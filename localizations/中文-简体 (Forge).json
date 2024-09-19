@@ -8275,5 +8275,6 @@
   "Lower: Darker | Higher: Brighter": "降低：更暗 | 提高：更亮",
   "Blur mask threshold": "蒙版模糊阈值",
   "Start step": "开始步骤",
-  "End step": "结束步骤"
+  "End step": "结束步骤",
+  "Txt2img": "文生图"
 }
