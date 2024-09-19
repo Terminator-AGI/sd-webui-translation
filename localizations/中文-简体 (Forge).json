@@ -8272,5 +8272,9 @@
   "Merge Options": "合并选项",
   "Automatically Merge": "自动合并",
   "Bit Depth": "位深度",
-  "Lower: Darker | Higher: Brighter": "降低：更暗 | 提高：更亮"
+  "Lower: Darker | Higher: Brighter": "降低：更暗 | 提高：更亮",
+  "Blur mask threshold": "蒙版模糊阈值",
+  "(presets)": "（预设）",
+  "Start step:": "开始步骤：",
+  "End step:": "结束步骤："
 }
