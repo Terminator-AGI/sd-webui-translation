@@ -8276,5 +8276,6 @@
   "Blur mask threshold": "蒙版模糊阈值",
   "Start step": "开始步骤",
   "End step": "结束步骤",
-  "Txt2img": "文生图"
+  "Txt2img": "文生图",
+  "Reinstall": "重新安装"
 }
