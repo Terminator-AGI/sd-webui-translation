@@ -8321,7 +8321,7 @@
   "Distilled CFG scale schedule": "提炼的CFG比例计划",
   "how closely the image should conform to the prompt. Lower values produce more creative results. (recommended value for Flux.1: 3.5, ignored for most other models)`": "图像与提示符合的程度。较低值会产生更具创意的结果。（Flux.1的推荐值：3.5，大多数其他模型忽略此项）",
   "Strength schedule for keyframes": "关键帧强度计划",
-  "like 'Strength schedule' but only for frames with an entry in 'prompts'. Meant to be set somewhat lower than the regular Strengh schedule. At 0 it generates a totally new image on every prompt change. Ignored if Parseq is used or when Keyframe distribution is disabled.": "类似于'强度计划'，但仅适用于在'prompts'中有条目的帧。应设置为比常规强度计划稍低。当为0时，每次提示更改都会生成一个全新的图像。如果使用Parseq或禁用了关键帧分布，则忽略此项。",
+  "like 'Strength schedule' but only for frames with an entry in 'prompts'. Meant to be set somewhat lower than the regular Strength schedule. At 0 it generates a totally new image on every prompt change. Ignored if Parseq is used or when Keyframe distribution is disabled.": "类似于“强度调度”，但仅适用于“prompts”中有条目的帧。建议设置得比常规的强度调度低一些。设置为0时，每次提示词变化时生成一个全新的图像。如果使用 Parseq 或禁用了关键帧分布，则忽略此设置。",
   "Aim for more continuous similarity by mixing in a constant seed.": "通过混合一个恒定的种子来获得更连续的相似性。",
   "enables scheduling of scheduler schedules.": "启用调度程序计划的调度。",
   "Enable scheduler scheduling": "启用调度程序计划",
@@ -8400,5 +8400,16 @@
   "txt2img scheduler": "文生图调度器",
   "img2img scheduler": "图生图调度器",
   "Disables non-essential emojis.": "禁用非必要的表情符号。",
-  "like 'Strength schedule' but only for frames with an entry in 'prompts'. Meant to be set somewhat lower than the regular Strength schedule. At 0 it generates a totally new image on every prompt change. Ignored if Parseq is used or when Keyframe distribution is disabled.": "类似于“强度调度”，但仅适用于“prompts”中有条目的帧。建议设置得比常规的强度调度低一些。设置为0时，每次提示词变化时生成一个全新的图像。如果使用 Parseq 或禁用了关键帧分布，则忽略此设置。"
+  "All guidance scale schedules have been moved to 'Keyframes' - 'CFG'.": "所有引导尺度调度已移动至“关键帧” - “CFG”。",
+  "Seed & SubSeed": "种子 & 子种子",
+  "3D Depth Warping & FOV": "3D 深度扭曲与视场（FOV）",
+  "Try to reproduce the results from external software": "尝试重现外部软件的结果",
+  "[Forge] Flux Realistic": "[Forge] Flux 真实感",
+  "[Forge] Flux Realistic (Slow)": "[Forge] Flux 真实感（慢速）",
+  "The MPS workaround for nn.Linear on macOS 13.2.X is based on the MPS workaround for nn.Linear created by danieldk for Curated transformers": "macOS 13.2.X 上 nn.Linear 的 MPS 解决方案基于 danieldk 为 Curated transformers 创建的 nn.Linear MPS 解决方案",
+  "negative prompt to be appended to *all* prompts. Ignored with Flux. DON'T use --neg here!": "将负面提示词附加到*所有*提示词中。在 Flux 中忽略。不要在这里使用 --neg！",
+  "words here will be added to the end of all negative prompts. ignored with Flux.": "此处的词语将添加到所有负面提示词的末尾。在 Flux 中忽略。",
+  "(use a checkerboard brush pattern instead of color brush)": "（使用棋盘格刷子图案而非颜色刷子）",
+  "(Smaller areas get higher denoising, larger areas less. Maximum denoise strength is set by 'Inpaint denoising strength'. 0 = disabled; 1 = linear; 2-4 = recommended)": "（较小的区域获得更高的去噪强度，较大的区域较低。最大去噪强度由“修补去噪强度”设置。0 = 禁用；1 = 线性；2-4 = 推荐值）",
+  "(Strict is for SDXL only, and matches exactly to trained SDXL resolutions. Free works with any model, but will use potentially unsupported dimensions.)": "（严格模式仅适用于 SDXL，并精确匹配训练的 SDXL 分辨率。自由模式适用于任何模型，但可能会使用不支持的尺寸。）"
 }
