@@ -8373,7 +8373,7 @@
   "2 steps up, then 1 step down again.": "先上升 2 步，再下降 1 步。",
   "one step up, then one step down again. **NOT RECOMMENDED.**": "先上升 1 步，再下降 1 步。 **不推荐。**",
   "Refiner is currently under maintenance and unavailable. Sorry for the inconvenience.": "细化器目前正在维护，无法使用。对造成的不便表示歉意。",
-  "Aspect Ratio and Resolution Buttons": "纵横比和分辨率按钮",
+  "Aspect Ratio and Resolution Buttons": "纵横比和分辨率",
   "Current W/H Avg.": "当前宽高平均值。",
   "Precision (px)": "精度（像素）",
   "AR and Static Res buttons can be customized in the 'aspect_ratios.txt' and 'resolutions.txt' files": "AR 和静态分辨率按钮可以在 'aspect_ratios.txt' 和 'resolutions.txt' 文件中自定义。",
@@ -8411,5 +8411,10 @@
   "words here will be added to the end of all negative prompts. ignored with Flux.": "此处的词语将添加到所有负面提示词的末尾。在 Flux 中忽略。",
   "(use a checkerboard brush pattern instead of color brush)": "（使用棋盘格刷子图案而非颜色刷子）",
   "(Smaller areas get higher denoising, larger areas less. Maximum denoise strength is set by 'Inpaint denoising strength'. 0 = disabled; 1 = linear; 2-4 = recommended)": "（较小的区域获得更高的去噪强度，较大的区域较低。最大去噪强度由“修补去噪强度”设置。0 = 禁用；1 = 线性；2-4 = 推荐值）",
-  "(Strict is for SDXL only, and matches exactly to trained SDXL resolutions. Free works with any model, but will use potentially unsupported dimensions.)": "（严格模式仅适用于 SDXL，并精确匹配训练的 SDXL 分辨率。自由模式适用于任何模型，但可能会使用不支持的尺寸。）"
+  "(Strict is for SDXL only, and matches exactly to trained SDXL resolutions. Free works with any model, but will use potentially unsupported dimensions.)": "（严格模式仅适用于 SDXL，并精确匹配训练的 SDXL 分辨率。自由模式适用于任何模型，但可能会使用不支持的尺寸。）",
+  "Output directory for adetailer images": "adetailer 图片的输出目录",
+  "Power scaling for dynamic denoise strength based on bounding box size": "基于边界框大小的动态去噪强度功率缩放",
+  "Try to match inpainting size to bounding box size, if 'Use separate width/height' is not set": "如果未设置“使用单独的宽度/高度”，则尝试将修补尺寸与边界框尺寸匹配",
+  "Strict (SDXL only)": "严格模式（仅适用于 SDXL）",
+  "Free": "自由模式"
 }
