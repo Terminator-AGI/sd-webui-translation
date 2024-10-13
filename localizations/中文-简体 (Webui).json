@@ -8359,5 +8359,7 @@
   "Add a \"Send to Comparison\" button under txt2img generation result to compare against previous generation": "在文生图生成结果下添加一个“发送到比较”按钮以与之前的生成进行比较",
   "Add the \"do_not_save_to_config\" flag to all components": "为所有组件添加 \"do_not_save_to_config\" 标志",
   "Vectorscope CC": "矢量示波器 CC",
-  "Image Comparison": "图像比较"
+  "Image Comparison": "图像对比",
+  "(uncheck this option if you wish to use the built-in Defaults function) (enable this option again if the extension is not functioning correctly after an update)": "（如果你希望使用内置的默认功能，请取消选中此选项）（如果扩展在更新后无法正常工作，请再次启用此选项）",
+  "ASimilarity": "相似性算法"
 }
