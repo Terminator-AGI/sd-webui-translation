@@ -8419,8 +8419,6 @@
   "Free": "自由模式",
   "Regional Prompter": "区域提示词",
   "Generation Mode": "生成模式",
-  "Attention": "注意力",
-  "Latent": "潜在",
   "Columns": "列",
   "Rows": "行",
   "Random": "随机",
@@ -8572,5 +8570,6 @@
   "Image B": "图片 B",
   "Revision": "修订",
   "move": "移动",
-  "Slow-Mo X": "慢动作 X"
+  "Slow-Mo X": "慢动作 X",
+  "merged model ID (-1 for last)": "合并模型 ID (-1 表示最后一个)"
 }
