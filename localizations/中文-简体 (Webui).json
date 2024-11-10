@@ -8402,5 +8402,8 @@
   "Zoom Out": "缩小",
   "(Smaller areas get higher denoising, larger areas less. Maximum denoise strength is set by 'Inpaint denoising strength'. 0 = disabled; 1 = linear; 2-4 = recommended)": "(较小区域获得更高的去噪强度，较大区域则较低。最大去噪强度由“填图去噪强度”设定。0 = 禁用；1 = 线性；2-4 = 推荐)",
   "(Strict is for SDXL only, and matches exactly to trained SDXL resolutions. Free works with any model, but will use potentially unsupported dimensions.)": "(严格模式仅适用于 SDXL，并完全匹配经过训练的 SDXL 分辨率。自由模式适用于任何模型，但可能使用不受支持的维度。)",
-  "(Add tags that shouldn't have underscores replaced with spaces, separated by comma.)": "(添加不应将下划线替换为空格的标签，以逗号分隔)"
+  "(Add tags that shouldn't have underscores replaced with spaces, separated by comma.)": "(添加不应将下划线替换为空格的标签，以逗号分隔)",
+  "Confidence": "置信度",
+  "Method to filter top k masks by (confidence or area)": "筛选前 k 个掩码的方法（置信度或面积）",
+  "Mask only the top k (0 to disable)": "仅掩盖前 k 个（0 表示禁用）"
 }
