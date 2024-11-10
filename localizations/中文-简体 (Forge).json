@@ -8597,5 +8597,8 @@
   "CLIP Interrogator": "CLIP 询问器",
   "read metadata: refresh": "读取元数据：刷新",
   "checkpoints: refresh": "检查点：刷新",
-  "/path/to/images or to/images/**/*": "/path/to/images 或 to/images/**/*"
+  "/path/to/images or to/images/**/*": "/path/to/images 或 to/images/**/*",
+  "Confidence": "置信度",
+  "Method to filter top k masks by (confidence or area)": "筛选前 k 个掩码的方法（置信度或面积）",
+  "Mask only the top k (0 to disable)": "仅掩盖前 k 个（0 表示禁用）"
 }
