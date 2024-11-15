@@ -8305,7 +8305,6 @@
   "(Turn this on if you have issues with new embeddings not registering correctly in TAC. Warning: Seems to cause reloading issues in gradio for some users.)": "(如果您遇到新嵌入未正确注册的问题，请打开此选项。警告：对某些用户可能会导致 gradio 中的重新加载问题。)",
   "Force refresh embeddings when pressing the extra networks refresh button": "强制刷新嵌入时按下额外网络刷新按钮",
   "Append Vectorscope CC parameters to generation information": "将Vectorscope CC参数附加到生成信息",
-  "Vectorscope CC v2.3.1": "矢量示波器 CC v2.3.1",
   "CC Styles": "CC 样式",
   "Alt. (Stronger Effects)": "替代选项（更强效果）",
   "R": "红色色域",
