@@ -8458,9 +8458,9 @@
   "Step 3: Click the": "步骤 3：点击",
   "button below to generate, or click": "下方按钮生成，或点击",
   "to erase the results": "清除结果",
-  "The animated video in the original image space": "原图空间中的动画视频",
+  "The animated video in the original image space": "原图中的动画视频",
   "The animated video": "动画视频",
-  "The animated image in the original image space": "原图空间中的动画图片",
+  "The animated image in the original image space": "原图中的动画图片",
   "The animated image": "动画图片",
   "Retargeting and Editing Portraits": "重定向与编辑肖像",
   "Upload a source portrait, and the": "上传一个源肖像，并调整",
@@ -8496,5 +8496,7 @@
   "Face alignment detector device": "人脸对齐检测器设备",
   "Face alignment detector dtype": "人脸对齐检测器数据类型",
   "Enable torch.compile for faster inference": "启用 torch.compile 以加速推理",
-  "Live portrait generation output directory": "动态肖像生成输出目录"
+  "Live portrait generation output directory": "动态肖像生成输出目录",
+  "🖼️ Source Image":"🖼️ 源图片",
+  "🎞️ Source Video":"🎞️ 源视频"
 }
