@@ -8496,7 +8496,5 @@
   "Face alignment detector device": "人脸对齐检测器设备",
   "Face alignment detector dtype": "人脸对齐检测器数据类型",
   "Enable torch.compile for faster inference": "启用 torch.compile 以加速推理",
-  "Live portrait generation output directory": "动态肖像生成输出目录",
-  "🖼️ Source Image":"🖼️ 源图片",
-  "🎞️ Source Video":"🎞️ 源视频"
+  "Live portrait generation output directory": "动态肖像生成输出目录"
 }
