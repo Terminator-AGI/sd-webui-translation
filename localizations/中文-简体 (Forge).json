@@ -8677,5 +8677,17 @@
   "Infinite image browsing": "无边图像浏览",
   "ReSharpen": "重新锐化",
   "GeekyRemB": "背景移除",
-  "Blend Mode": "混合模式"
+  "Blend Mode": "混合模式",
+  "Send mask to Cleaner": "发送遮罩到清理器",
+  "Erase button": "擦除按钮",
+  "Draw button": "绘制按钮",
+  "Send to Cleaner": "发送到清理器",
+  "Clean up": "清理",
+  "Clean up upload": "上传清理文件",
+  "Image for clean up with mask": "带遮罩的清理图片",
+  "Upload an image": "上传图片",
+  "select the draw tool to start": "选择绘制工具开始",
+  "Clean Up": "清理",
+  "Send back To clean up": "发送回清理",
+  "Image for cleanup": "清理图片"
 }
