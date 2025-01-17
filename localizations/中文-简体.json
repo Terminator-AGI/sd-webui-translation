@@ -8920,5 +8920,21 @@
   "Save folders for Types. Set JSON Key-Value pair. The folder separator is \"/\" not \"\\\". The path is relative from models folder or absolute. Example for Stability Matrix: {\"Checkpoint\":\"Stable-diffusion/sd\"}": "保存类型的文件夹。设置 JSON 键值对。文件夹分隔符为 \"/\" 而不是 \"\\\"。路径是从模型文件夹的相对路径或绝对路径。例如，Stability Matrix: {\"Checkpoint\":\"Stable-diffusion/sd\"}",
   "Subfolders under type folders. Model information can be referenced by the key name enclosed in double curly brachets \"{{}}\". Available key names are \"BASEMODELbkCmpt\", \"BASEMODEL\", \"NSFW\", \"USERNAME\", \"MODELNAME\", \"MODELID\", \"VERSIONNAME\" and \"VERSIONID\". Folder separator is \"/\".": "类型文件夹下的子文件夹。模型信息可以通过双花括号 \"{{}}\" 中的键名引用。可用的键名有 \"BASEMODELbkCmpt\"、\"BASEMODEL\"、\"NSFW\"、\"USERNAME\"、\"MODELNAME\"、\"MODELID\"、\"VERSIONNAME\" 和 \"VERSIONID\"。文件夹分隔符是 \"/\"。",
   "(Note: API-Key is stored in the `settings.json` file.)": "（注意：API 密钥存储在 `settings.json` 文件中。）",
-  "preview": "预览"
+  "preview": "预览",
+  "Unload all models": "卸载所有模型",
+  "RefDrop": "RefDrop",
+  "You must first generate a single image to record its embedding information. Caution: Running \"Save\" a second time will overwrite existing data.": "您必须先生成一张图片以记录其嵌入信息。注意：第二次运行“保存”将覆盖现有数据。",
+  "Enabled for hires fix": "启用高分辨率修复",
+  "RFG Coefficent": "RFG 系数",
+  "RFG is only used applying to a new image. Positive values increase consistency with the saved data while negative do the opposite.": "RFG 仅在应用到新图片时使用。正值增加与已保存数据的一致性，而负值则相反。",
+  "Latent Store Location": "潜空间存储位置",
+  "Choose 'Disk' if low on memory.": "如果内存不足，请选择“磁盘”。",
+  "RAM": "内存",
+  "Disk": "磁盘",
+  "Save Percentage": "保存百分比",
+  "Reduce run time by limiting the number of embedding files saved. Minimal impact >=50%": "通过限制保存的嵌入文件数量来减少运行时间。影响较小（≥50%）。",
+  "Select which layer group to use. Use mode must use layers that were selected during Save mode, though fewer may be selected during Use mode.": "选择要使用的图层组。使用模式必须使用保存模式期间选择的图层，尽管使用模式可以选择更少的图层。",
+  "input": "输入",
+  "Delete Saved RefDrop Latents": "删除已保存的 RefDrop 潜空间",
+  "middle": "中间"
 }
