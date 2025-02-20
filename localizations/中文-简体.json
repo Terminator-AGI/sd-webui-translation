@@ -8974,5 +8974,7 @@
   "Check -Embedding Shape- on Similarity": "在相似性上检查 -嵌入形状-",
   "Click 'Save' to apply. If you already run 'Generate' - RESTART is required: (A1111) Extensions Tab -> 'Apply and restart UI' or (SD.Next) close the Server and start it again": "点击 '保存' 以应用。如果您已经运行了 '生成' - 需要重启：(A1111) 扩展选项卡 -> '应用并重启 UI' 或 (SD.Next) 关闭服务器并重新启动",
   "Resized image": "调整大小的图像",
-  "Attenuation (linear, % of scale)": "衰减（线性，% 的比例）"
+  "Attenuation (linear, % of scale)": "衰减（线性，% 的比例）",
+  "Paste here the path to the folder containing source faces images": "粘贴包含源面部图像的文件夹的路径",
+  "Please type any name (e.g. Elena)": "请输入任何名称（例如，Elena）"
 }
