@@ -8976,5 +8976,8 @@
   "Resized image": "调整大小的图像",
   "Attenuation (linear, % of scale)": "衰减（线性，% 的比例）",
   "Paste here the path to the folder containing source faces images": "粘贴包含源面部图像的文件夹的路径",
-  "Please type any name (e.g. Elena)": "请输入任何名称（例如，Elena）"
+  "Please type any name (e.g. Elena)": "请输入任何名称（例如，Elena）",
+  "Hires Distilled CFG Scale": "高分辨率蒸馏CFG系数",
+  "Hires CFG Scale": "高分辨率CFG系数",
+  "(use model of same architecture)": "（使用相同架构的模型）"
 }
