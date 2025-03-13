@@ -9042,5 +9042,12 @@
   "frame": "帧",
   "Clip Interrogate Keyframe": "片段询问关键帧",
   "Deepbooru Keyframe": "Deepbooru 关键帧",
-  "EbSynth weight": "EbSynth 权重"
+  "EbSynth weight": "EbSynth 权重",
+  "(manual input of": "(可以手动输入",
+  "other formats": "其他格式",
+  "is possible, but compatibility is not guaranteed)": "，但不保证兼容性)",
+  "(potentially increase TI load time at the cost some disk space)": "(可能会增加 TI 加载时间，但会占用一些磁盘空间)",
+  "(disables CFG on a proportion of steps at the beginning of generation; 0=skip none; 1=skip all; can both improve sample diversity/quality and speed up sampling; XYZ plot: Skip Early CFG)": "(在生成开始时禁用部分步骤的 CFG；0=不跳过；1=全部跳过；可以提高样本多样性/质量并加快采样速度；XYZ 图表：跳过早期 CFG)",
+  "(reduce extension update check time)": "(减少扩展更新检查时间)"
+
 }
