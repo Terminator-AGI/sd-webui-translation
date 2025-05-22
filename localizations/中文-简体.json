@@ -9053,5 +9053,6 @@
   "Use \"Ctrl\" + \"Alt\" + \"Left Click\" / \"Right Click\" to quickly send any image to comparison": "使用 \"Ctrl\" + \"Alt\" + \"左点击\" / \"右点击\" 快速将任何图像发送到比较",
   "Switch to the Comparison tab afterwards": "之后切换到对比选项卡",
   "(for the above option)": "(针对上述选项)",
-  "Number of simultaneous extension update checks": "同时进行的扩展更新检查数量"
+  "Number of simultaneous extension update checks": "同时进行的扩展更新检查数量",
+  "Input image thumbnail on unit header": "在单元标题中显示输入图像缩略图"
 }
