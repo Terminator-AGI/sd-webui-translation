@@ -9209,5 +9209,17 @@
   "Frame Discarding": "帧丢弃",
   ": Extra frames are discarded from the middle to match your exact timing": "：多余帧会从中间部分丢弃，以匹配目标时长",
   "Display Info": "显示信息",
-  ": Console shows exactly which frames will be discarded before generation": "：控制台将展示哪些帧将在生成前被丢弃"
+  ": Console shows exactly which frames will be discarded before generation": "：控制台将展示哪些帧将在生成前被丢弃",
+  "General Deforum Settings": "通用 Deforum 设置",
+  "Keep settings persistent upon relaunch of webUI.": "在重新启动 WebUI 时保留设置。",
+  "Enable Dev mode - adds extra reporting in console.": "启用开发者模式 - 控制台将输出额外信息。",
+  "Deforum FFmpeg Settings": "Deforum FFmpeg 设置",
+  "Deforum Subtitle Settings": "Deforum 字幕设置",
+  "Save an .srt (subtitles) file with the generation info along with each animation. Works with VLC and with YouTube (upload file 'With timing').": "为每个动画生成一个包含生成信息的 .srt（字幕）文件。支持 VLC 和 YouTube（上传“带时间轴”的文件）。",
+  "If .srt file is saved, soft-embed the subtitles into the video file.": "若保存了 .srt 文件，将字幕软嵌入视频中。",
+  "Animation parameters to be saved to the .srt file (Frame # and Seed will always be saved):": "要保存到 .srt 文件中的动画参数（帧号和种子始终会被保存）：",
+  "Desired subtitles per second (Mostly useful at high FPS. Experimental core only)": "每秒期望字幕数（主要用于高帧率，仅限实验核心）",
+  "Always write keyframe subtitle (makes subtitles per second fuzzy, but provides better synchronization. Experimental core only).": "始终写入关键帧字幕（会导致每秒字幕数量不精确，但能提供更好的同步，仅限实验核心）。",
+  "Deforum Preview Settings": "Deforum 预览设置",
+  "Generate preview video during generation? (does not include frame interpolation and up-scaling)": "在生成过程中是否生成预览视频？（不包含帧插值和放大）"
 }
