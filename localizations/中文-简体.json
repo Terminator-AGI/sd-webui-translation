@@ -9221,5 +9221,7 @@
   "Desired subtitles per second (Mostly useful at high FPS. Experimental core only)": "每秒期望字幕数（主要用于高帧率，仅限实验核心）",
   "Always write keyframe subtitle (makes subtitles per second fuzzy, but provides better synchronization. Experimental core only).": "始终写入关键帧字幕（会导致每秒字幕数量不精确，但能提供更好的同步，仅限实验核心）。",
   "Deforum Preview Settings": "Deforum 预览设置",
-  "Generate preview video during generation? (does not include frame interpolation and up-scaling)": "在生成过程中是否生成预览视频？（不包含帧插值和放大）"
+  "Generate preview video during generation? (does not include frame interpolation and up-scaling)": "在生成过程中是否生成预览视频？（不包含帧插值和放大）",
+  "ForgeCanvas: use plain background": "ForgeCanvas：使用纯色背景",
+  "ForgeCanvas: toolbar always visible": "ForgeCanvas：工具栏始终可见"
 }
